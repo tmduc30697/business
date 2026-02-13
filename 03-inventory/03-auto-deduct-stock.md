@@ -1,0 +1,1 @@
+# Auto deduct stock
